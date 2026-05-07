@@ -6,7 +6,6 @@ on:
     paths:
       - 'Bai2/src/**'
       - 'Bai2/pom.xml'
-      - '.github/workflows/**'
   pull_request:
     branches: [ "main" ]
 
