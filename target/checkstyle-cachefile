@@ -1,0 +1,4 @@
+#Thu May 07 12:22:35 GMT+07:00 2026
+configuration*?=8BD0C17387EF7CD2D6ADA211DAE025F06CE711D7
+module-resource*?\:checkstyle-suppressions.xml=48E8442C21503BFB8512F4143926652A204F9C5E
+module-resource*?\:checkstyle-xpath-suppressions.xml=86AA7DE87FD1707A1669E65358D45711EEFFF02E
