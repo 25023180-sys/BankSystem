@@ -2,14 +2,9 @@ name: Code Quality Check (Checkstyle)
 
 on:
   push:
-    branches: [ "master" ]
-    paths:
-      - 'Bai2/src/**'
-      - 'Bai2/pom.xml'
+    branches: [ "master" ] # Xóa sạch phần paths ở đây
   pull_request:
-    branches: [ "main" ]
-
-
+    branches: [ "master" ]
   workflow_dispatch:
 
 jobs:
