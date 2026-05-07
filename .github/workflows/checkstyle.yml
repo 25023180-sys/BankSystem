@@ -2,11 +2,11 @@ name: Code Quality Check (Checkstyle)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
     paths:
-      - 'src/**'
-      - 'pom.xml'
-      - '.github/workflows/checkstyle.yml'
+      - 'Bai2/src/**'
+      - 'Bai2/pom.xml'
+      - '.github/workflows/**'
   pull_request:
     branches: [ "main" ]
 
